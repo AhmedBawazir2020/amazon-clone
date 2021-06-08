@@ -16,7 +16,7 @@ const promise = loadStripe(
   "pk_test_51HQALCAuuNIxY3IZDI2pE2mWMCSC1ZsZKElYkKHZ6XzM3zdYm0GrosV5a3hd8sxnir6eKmbxn3YuYYJCockIxC7l00m7rXMMsK"
 );
 
-
+//AHmed
 
 function App() {
   const [{ }, dispatch] = useStateValue();
