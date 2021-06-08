@@ -1,14 +1,14 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCdyZRZdHJjRmglZ5sIe4Hfrynz6AmsLwY",
+    apiKey: "##",
     authDomain: "challenge-7a423.firebaseapp.com",
-    databaseURL: "https://challenge-7a423.firebaseio.com",
-    projectId: "challenge-7a423",
-    storageBucket: "challenge-7a423.appspot.com",
-    messagingSenderId: "751801397542",
-    appId: "1:751801397542:web:2e04d0582708061a3291e7",
-    measurementId: "G-8F861NMVG8"
+    databaseURL: "##",
+    projectId: "##",
+    storageBucket: "##",
+    messagingSenderId: "##",
+    appId: "##",
+    measurementId: "##"
   };
 
   const firebaseApp = firebase.initializeApp(firebaseConfig); 
